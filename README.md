@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Muhamad Syaroful Anam</h1>
 <h3 align="center">Im Student of State Polytechnic of Malang</h3>
-<img align="right" alt="Cat" width=400 src ="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwifflegif.com%2Fgifs%2F178598-cartoon-cat-cartoon-gif&psig=AOvVaw0nyUczh63EBZyjLU8HI65L&ust=1700907625076000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCJjm5Oi03IIDFQAAAAAdAAAAABAJ">
+<img align="right" alt="Cat" width=400 src ="https://31.media.tumblr.com/fa78e85a07e15c5b3b38b78bd985b808/tumblr_mjp4omG4cL1s10dr8o1_500.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=syaroful&label=Profile%20views&color=0e75b6&style=flat" alt="syaroful" /> </p>
 
