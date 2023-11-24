@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=syaroful&label=Profile%20views&color=0e75b6&style=flat" alt="syaroful" /> </p>
 
-- 🌱 I’m currently learning **Laravel, UI/UX design, and other Front End Framework**
+- 🌱 I’m currently learning **Flutter, Tailwind, UI/UX design, and other Front End Framework**
 
 - 📫 How to reach me **syaroful10403@gmail.com**
 
