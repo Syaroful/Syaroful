@@ -10,7 +10,7 @@
 
 - 📫 How to reach me **creativeworks.syarofulanam@gmail.com**
 
-- 🚀 My Portfolio link <a href="https://bit.ly/SyarofulPortfolioWebsite" target="blank">https://bit.ly/SyarofulPortfolioWebsite</a>
+- 🚀 My Portfolio link <a href="https://bit.ly/SyarofulPortfolioWebsite" target="_blank">https://bit.ly/SyarofulPortfolioWebsite</a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
