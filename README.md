@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Muhamad Syaroful Anam</h1>
-<h3 align="center">Im Student of State Polytechnic of Malang</h3>
+<h3 align="center">Undergraduate student, passionate in Mobile Development</h3>
 <p align="center">
   <img alt="Cat" width=200 src ="https://31.media.tumblr.com/fa78e85a07e15c5b3b38b78bd985b808/tumblr_mjp4omG4cL1s10dr8o1_500.gif">
 </p>
