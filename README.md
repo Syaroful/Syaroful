@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=syaroful&label=Profile%20views&color=0e75b6&style=flat" alt="syaroful" /> </p>
 
-- 🌱 I’m currently learning **Mobile Development with Flutter**
+- 🌱 I’m currently learning **Mobile Development with Kotlin❤️‍🔥**
 
 - 📫 How to reach me **creativeworks.syarofulanam@gmail.com**
 
