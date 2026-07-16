@@ -108,21 +108,6 @@ carry the work forward. Currently exploring AI-native product workflows for mobi
 
 ---
 
-### `//` GitHub Stats
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=syaroful&show_icons=true&hide_border=true&bg_color=0A0B0E&title_color=FF5B2E&text_color=9A9A95&icon_color=FF5B2E" alt="GitHub Stats" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=syaroful&layout=compact&hide_border=true&bg_color=0A0B0E&title_color=FF5B2E&text_color=9A9A95&langs_count=8" alt="Top Languages" />
-
-<br/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=syaroful&hide_border=true&background=0A0B0E&stroke=24262D&ring=FF5B2E&fire=FF5B2E&currStreakLabel=FF5B2E&sideLabels=9A9A95&dates=9A9A95&currStreakNum=F4F2EE&sideNums=F4F2EE" alt="GitHub Streak" />
-
-</div>
-
----
-
 <div align="center">
 
 ### `//` Let's build something
